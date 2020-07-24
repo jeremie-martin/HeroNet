@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "HeroNetLib",
+        "repositoryURL": "https://github.com/jeremie-martin/HeroNetLib",
+        "state": {
+          "branch": null,
+          "revision": "f545b9f465b84219158ab6715a4aa96b98b29100",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
